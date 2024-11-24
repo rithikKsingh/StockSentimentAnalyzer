@@ -1,0 +1,53 @@
+# Bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+venv/
+env/
+myenv/
+
+# Distribution/Packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# IDE or Text Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Log files
+*.log
+
+# Environment variable files
+.env
+.env.local
+.env.*.local
+
+# Database files
+*.sqlite3
+*.db
+
+# Coverage and testing
+.coverage/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python Wheels
+*.whl
+
+# Poetry
+.poetry/
